@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amayaDev/static/css/main.5f361e03.chunk.css",
+    "main.js": "/amayaDev/static/js/main.b4f22202.chunk.js",
+    "main.js.map": "/amayaDev/static/js/main.b4f22202.chunk.js.map",
+    "runtime-main.js": "/amayaDev/static/js/runtime-main.8275b01c.js",
+    "runtime-main.js.map": "/amayaDev/static/js/runtime-main.8275b01c.js.map",
+    "static/js/2.f8e6fee6.chunk.js": "/amayaDev/static/js/2.f8e6fee6.chunk.js",
+    "static/js/2.f8e6fee6.chunk.js.map": "/amayaDev/static/js/2.f8e6fee6.chunk.js.map",
+    "index.html": "/amayaDev/index.html",
+    "precache-manifest.d89ea4fb52650fdee41db6ec90eb1790.js": "/amayaDev/precache-manifest.d89ea4fb52650fdee41db6ec90eb1790.js",
+    "service-worker.js": "/amayaDev/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/amayaDev/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f8e6fee6.chunk.js.LICENSE.txt": "/amayaDev/static/js/2.f8e6fee6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8275b01c.js",
+    "static/js/2.f8e6fee6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b4f22202.chunk.js"
+  ]
+}
